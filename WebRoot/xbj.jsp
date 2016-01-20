@@ -9,7 +9,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <head>
     <base href="<%=basePath%>">
     
-    <title>My JSP '555.jsp' starting page</title>
+    <title>My JSP 'xbj.jsp' starting page</title>
     
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache">
@@ -23,11 +23,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-
-   
-
-    Th44444. 5689888585854444444444444%%%%%%%%%%%%%%%%%%<br>
-
-
+    xbjfffffffff <br>
   </body>
 </html>
